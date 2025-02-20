@@ -27,7 +27,7 @@ void loop() {
 }
 
 --------------------------------------------------------------------
-Sensor Ultrasonico 
+Sensor Ultrassônico 
 
 #include <ArduinoJson.h>
 
